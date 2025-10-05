@@ -257,7 +257,8 @@ export class RecommendationsService {
         merchantName: t.merchant?.name,
       })),
       totalEmissions,
-      categoryStats
+      // map to expected shape for AI service
+      categoryStats.map(cs => ({ category: cs.category, kgCO2e: cs.totalKg, percentage: cs.percentage }))
     );
 
     if (!actionPlan) {

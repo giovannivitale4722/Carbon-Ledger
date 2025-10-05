@@ -224,7 +224,6 @@ Keep it concise (2-3 sentences total).`;
         model: this.openai('gpt-4o-mini'),
         system: 'You are a carbon emissions analyst. Provide clear, actionable insights.',
         prompt,
-        maxTokens: 200,
       });
 
       logger.info('🤖 AI generated emission insights');
