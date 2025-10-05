@@ -1,6 +1,6 @@
 # 🚀 Railway + Vercel Deployment Walkthrough
 
-**Complete step-by-step guide to deploy Carbon Ledger in 30 minutes**
+**Complete step-by-step guide to deploy GreenPrint in 30 minutes**
 
 Your code is now on GitHub: `https://github.com/giovannivitale4722/Carbon-Ledger`
 
@@ -422,7 +422,7 @@ Post-deployment:
 
 ---
 
-**Congratulations! Your Carbon Ledger app is live! 🎉🌱**
+**Congratulations! Your GreenPrint app is live! 🎉🌱**
 
 Questions? Check `TROUBLESHOOTING.md` or the Railway/Vercel docs linked above.
 

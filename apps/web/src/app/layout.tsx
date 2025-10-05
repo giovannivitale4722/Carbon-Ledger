@@ -6,7 +6,7 @@ import { Providers } from '@/components/providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Carbon Ledger - Track Your Carbon Footprint',
+  title: 'GreenPrint - Track Your Carbon Footprint',
   description: 'Reframe bank transactions as carbon spending',
   viewport: 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no',
 };

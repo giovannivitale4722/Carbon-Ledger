@@ -62,7 +62,7 @@ export default function HomePage() {
             />
           </div>
           <p className="text-center text-xs text-gray-500 mt-2">
-            Carbon Ledger transforms your everyday transactions into measurable climate impact, helping you see how your spending shapes the world.
+            GreenPrint transforms your everyday transactions into measurable climate impact, helping you see how your spending shapes the world.
           </p>
         </div>
 
@@ -114,7 +114,7 @@ export default function HomePage() {
             />
           </div>
           <p className="text-center text-xs text-gray-500 mt-2">
-            Carbon Ledger bridges fintech and the environment — connecting your wallet to a cleaner future through transparent, data-driven insights.
+            GreenPrint bridges fintech and the environment — connecting your wallet to a cleaner future through transparent, data-driven insights.
           </p>
         </div>
 
@@ -127,7 +127,7 @@ export default function HomePage() {
             />
           </div>
           <p className="text-center text-xs text-gray-500 mt-2">
-            Carbon Ledger uses data analytics and smart algorithms to translate your financial activity into environmental insight—helping you understand, predict, and reduce your carbon footprint with precision.
+            GreenPrint uses data analytics and smart algorithms to translate your financial activity into environmental insight—helping you understand, predict, and reduce your carbon footprint with precision.
           </p>
         </div>
       </section>

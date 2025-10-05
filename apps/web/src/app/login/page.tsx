@@ -58,7 +58,7 @@ export default function LoginPage() {
               <div className="rounded-full bg-primary p-2">
                 <Leaf className="h-6 w-6 text-white" />
               </div>
-              <span className="text-2xl font-bold">Carbon Ledger</span>
+              <span className="text-2xl font-bold">GreenPrint</span>
             </div>
           </div>
           <CardTitle className="text-2xl text-center">

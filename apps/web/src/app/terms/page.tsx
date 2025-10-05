@@ -42,7 +42,7 @@ export default function TermsOfServicePage() {
 
         <div className="prose prose-lg max-w-none space-y-6 text-gray-800">
           <p className="text-lg leading-relaxed">
-            Welcome to Carbon Ledger. By accessing or using our website and services ("Service"), you agree to these Terms of Service ("Terms"). Please read them carefully.
+            Welcome to GreenPrint. By accessing or using our website and services ("Service"), you agree to these Terms of Service ("Terms"). Please read them carefully.
           </p>
 
           <section className="mt-8">
@@ -55,7 +55,7 @@ export default function TermsOfServicePage() {
           <section className="mt-8">
             <h2 className="text-2xl font-bold text-[#1B4332] mb-4">Description of Service</h2>
             <p>
-              Carbon Ledger provides analytics and educational tools to help users estimate the environmental impact of their spending patterns. The Service is intended for informational purposes only and does not constitute financial or environmental advice.
+              GreenPrint provides analytics and educational tools to help users estimate the environmental impact of their spending patterns. The Service is intended for informational purposes only and does not constitute financial or environmental advice.
             </p>
           </section>
 
@@ -80,7 +80,7 @@ export default function TermsOfServicePage() {
           <section className="mt-8">
             <h2 className="text-2xl font-bold text-[#1B4332] mb-4">Intellectual Property</h2>
             <p>
-              All trademarks, logos, software, and content on this site are the property of Carbon Ledger or its licensors. You may not copy, modify, or distribute any materials without permission.
+              All trademarks, logos, software, and content on this site are the property of GreenPrint or its licensors. You may not copy, modify, or distribute any materials without permission.
             </p>
           </section>
 
@@ -94,7 +94,7 @@ export default function TermsOfServicePage() {
           <section className="mt-8">
             <h2 className="text-2xl font-bold text-[#1B4332] mb-4">Limitation of Liability</h2>
             <p>
-              To the maximum extent permitted by law, Carbon Ledger shall not be liable for any indirect, incidental, or consequential damages arising from your use or inability to use the Service.
+              To the maximum extent permitted by law, GreenPrint shall not be liable for any indirect, incidental, or consequential damages arising from your use or inability to use the Service.
             </p>
           </section>
 

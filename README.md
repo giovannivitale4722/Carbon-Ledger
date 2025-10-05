@@ -1,14 +1,14 @@
-# 🌱 Carbon Ledger
+# 🌱 GreenPrint
 
 **Reframe bank transactions as carbon spending**
 
-Carbon Ledger is a FinTech sustainability application that integrates with Capital One's Nessie API (or simulated equivalent) to estimate per-transaction CO₂e emissions. It empowers users to understand and reduce their carbon footprint through actionable insights and personalized recommendations.
+GreenPrint is a FinTech sustainability application that integrates with Capital One's Nessie API (or simulated equivalent) to estimate per-transaction CO₂e emissions. It empowers users to understand and reduce their carbon footprint through actionable insights and personalized recommendations.
 
 ## 🎯 Project Overview
 
 **Problem**: Most people don't understand how their daily spending impacts the environment.
 
-**Solution**: Carbon Ledger automatically calculates the carbon footprint of every transaction, visualizes trends, and provides actionable advice like "Reduce 20% by switching to public transit twice/week."
+**Solution**: GreenPrint automatically calculates the carbon footprint of every transaction, visualizes trends, and provides actionable advice like "Reduce 20% by switching to public transit twice/week."
 
 **Sponsor Fit**: Creative use of Capital One financial data for sustainability; empowers climate action through consumer banking.
 

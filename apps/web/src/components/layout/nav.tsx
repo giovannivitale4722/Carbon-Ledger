@@ -41,7 +41,7 @@ export function Nav() {
           <div className="rounded-full bg-primary p-2">
             <Leaf className="h-5 w-5 text-white" />
           </div>
-          <span className="text-xl font-bold">Carbon Ledger</span>
+          <span className="text-xl font-bold">GreenPrint</span>
         </div>
       </div>
 

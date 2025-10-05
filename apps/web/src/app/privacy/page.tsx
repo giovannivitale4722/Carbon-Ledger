@@ -42,7 +42,7 @@ export default function PrivacyPolicyPage() {
 
         <div className="prose prose-lg max-w-none space-y-6 text-gray-800">
           <p className="text-lg leading-relaxed">
-            Carbon Ledger ("we," "our," or "us") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and protect your information when you use our website, mobile application, and related services (collectively, the "Service").
+            GreenPrint ("we," "our," or "us") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and protect your information when you use our website, mobile application, and related services (collectively, the "Service").
           </p>
 
           <section className="mt-8">
